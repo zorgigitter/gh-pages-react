@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/zorgigitter.github.io/gh-pages-react/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/zorgigitter.github.io/gh-pages-react/static/js/main.3b3e3f8b.chunk.js",
-    "main.js.map": "/zorgigitter.github.io/gh-pages-react/static/js/main.3b3e3f8b.chunk.js.map",
-    "runtime-main.js": "/zorgigitter.github.io/gh-pages-react/static/js/runtime-main.f2a8789a.js",
-    "runtime-main.js.map": "/zorgigitter.github.io/gh-pages-react/static/js/runtime-main.f2a8789a.js.map",
-    "static/js/2.91ab5a82.chunk.js": "/zorgigitter.github.io/gh-pages-react/static/js/2.91ab5a82.chunk.js",
-    "static/js/2.91ab5a82.chunk.js.map": "/zorgigitter.github.io/gh-pages-react/static/js/2.91ab5a82.chunk.js.map",
-    "static/js/3.8696369d.chunk.js": "/zorgigitter.github.io/gh-pages-react/static/js/3.8696369d.chunk.js",
-    "static/js/3.8696369d.chunk.js.map": "/zorgigitter.github.io/gh-pages-react/static/js/3.8696369d.chunk.js.map",
-    "index.html": "/zorgigitter.github.io/gh-pages-react/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/zorgigitter.github.io/gh-pages-react/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.91ab5a82.chunk.js.LICENSE.txt": "/zorgigitter.github.io/gh-pages-react/static/js/2.91ab5a82.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/zorgigitter.github.io/gh-pages-react/static/media/logo.6ce24c58.svg"
+    "main.css": "/gh-pages-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/gh-pages-react/static/js/main.3b3e3f8b.chunk.js",
+    "main.js.map": "/gh-pages-react/static/js/main.3b3e3f8b.chunk.js.map",
+    "runtime-main.js": "/gh-pages-react/static/js/runtime-main.36e8f058.js",
+    "runtime-main.js.map": "/gh-pages-react/static/js/runtime-main.36e8f058.js.map",
+    "static/js/2.91ab5a82.chunk.js": "/gh-pages-react/static/js/2.91ab5a82.chunk.js",
+    "static/js/2.91ab5a82.chunk.js.map": "/gh-pages-react/static/js/2.91ab5a82.chunk.js.map",
+    "static/js/3.8696369d.chunk.js": "/gh-pages-react/static/js/3.8696369d.chunk.js",
+    "static/js/3.8696369d.chunk.js.map": "/gh-pages-react/static/js/3.8696369d.chunk.js.map",
+    "index.html": "/gh-pages-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/gh-pages-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.91ab5a82.chunk.js.LICENSE.txt": "/gh-pages-react/static/js/2.91ab5a82.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gh-pages-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2a8789a.js",
+    "static/js/runtime-main.36e8f058.js",
     "static/js/2.91ab5a82.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.3b3e3f8b.chunk.js"
